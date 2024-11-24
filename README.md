@@ -2,8 +2,9 @@
 
 ## Indice
 * [Tutorial Installazione](#tutorial)
-* [Compilazione dell'app](#compilazione)
-
+* [Compilazione dell'app Desktop](#compilazione)
+* [Compilazione dell'app Mobile](#compilazionemobile)
+* 
 <div id="tutorial"></div>
 
 ## Installazione dell'app
@@ -59,7 +60,7 @@ Scarica la versione che preferisci dalla [tabella](#tab). Seguire il [tutorial v
 
 <div id="compilazione"></div>
 
-## Compilazione dell'app
+## Compilazione dell'app (Desktop)
 ### Vuoi aiutare nello sviluppo dell'app o modificarla? Ecco come farlo con linux.
 
 Inanzitutto clona la repository ed entraci dentro
@@ -89,4 +90,9 @@ Per compilare l'app usa:
 ```shell
 npm run build
 ```
+<div id="compilazionemobile"></div>
+
+## Compilazione dell'app (Mobile)
+Per modificare l'app mobile occorre scaricare il progetto in formato AIA ([LITE]() [STANDARD]()) e importarla su [kodular](https://c.kodular.io/).
+
 Buon divertimento! :)
