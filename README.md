@@ -93,6 +93,6 @@ npm run build
 <div id="compilazionemobile"></div>
 
 ## Compilazione dell'app (Mobile)
-Per modificare l'app mobile occorre scaricare il progetto in formato AIA ([LITE](https://github.com/pannisco/riplayer/blob/main/radioirpiniaPLAYERlite.aia) [STANDARD](https://github.com/pannisco/riplayer/blob/main/radioirpiniaPLAYER.aia)) e importarla su [kodular](https://c.kodular.io/).
+Per modificare l'app mobile occorre scaricare il progetto in formato AIA ([LITE](https://github.com/pannisco/riplayer/blob/main/radioirpiniaPLAYERlite.aia) ; [STANDARD](https://github.com/pannisco/riplayer/blob/main/radioirpiniaPLAYER.aia)) e importarla su [kodular](https://c.kodular.io/).
 
 Buon divertimento! :)
