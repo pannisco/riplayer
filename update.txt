@@ -1,0 +1,3 @@
+2.7
+https://github.com/CaliPanni/calipanni.github.io/raw/refs/heads/main/radioirpiniaPLAYER.apk
+Aggiunte icone a tema con Android 13 e superiori.
