@@ -12,6 +12,7 @@
 <div id="tab"></div>
 
 ### Download
+[![Github All Releases](https://img.shields.io/github/downloads/pannisco/riplayer/total.svg)]()
 | S.O.  | Link | Guida |
 | ------------- |:-------------:|:-------------:|
 | Windows       | [x64](https://github.com/pannisco/riplayer/releases/download/2.7/riplayerwinx64.exe) ; [x86](https://github.com/pannisco/riplayer/releases/download/2.7/riplayerwinx86.exe)|[QUI](#win)|
