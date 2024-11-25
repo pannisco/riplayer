@@ -1,0 +1,37 @@
+name: riplayer              # Nome univoco del pacchetto
+version: '1.0.0'                   # Versione dell'app
+summary: "Player di radio irpinia" # Breve descrizione
+description: |
+  Player di radio irpinia
+
+grade: stable                      # Può essere 'stable' o 'devel'
+confinement: strict                # Usa 'strict' per maggiore sicurezza
+
+base: core20                       # Usa 'core20' per Ubuntu 20.04
+
+parts:
+  app:
+    plugin: nodejs                 # Usa il plugin Node.js (ideale per app Electron)
+    source: .                      # Percorso dei file dell'app (la root del progetto)
+    nodejs-version: 16             # Versione di Node.js (puoi adattarla alle tue esigenze)
+    stage-packages:
+      - libgtk-3-0                 # Librerie richieste da Electron
+      - libx11-xcb1
+    override-build: |
+      npm install
+      npm run build
+      cp -r build/ $SNAPCRAFT_PART_INSTALL/
+
+apps:
+  irpiniaplayer:
+    command: electron .            # Comando per avviare l'app
+    extensions:
+      - gnome-3-38                 # Aggiunge integrazione GNOME
+    plugs:
+      - network
+      - desktop
+      - desktop-legacy
+      - wayland
+      - x11
+      - unity7
+      - home
