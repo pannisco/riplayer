@@ -1,3 +1,3 @@
-2.7
-https://github.com/pannisco/riplayer/releases/download/2.7/riplayer.apk
-Aggiunte icone a tema con Android 13 e superiori.
+3.0
+https://github.com/pannisco/riplayer/releases/download/3.0/riplayer.apk
+Aggiornato sistema di update. Disinstalla e installa la nuova app.
