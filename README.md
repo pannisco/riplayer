@@ -64,38 +64,10 @@ Scarica la versione che preferisci dalla [tabella](#tab). Seguire il [tutorial v
 <div id="compilazione"></div>
 
 ## Compilazione dell'app (Desktop)
-### Vuoi aiutare nello sviluppo dell'app o modificarla? Ecco come farlo con linux.
-
-Inanzitutto clona la repository ed entraci dentro
-
-```shell
-git clone https://github.com/pannisco/riplayer.git
-cd riplayer
-```
-Il progetto è stato creato con NodeJS, quindi installalo
-##### Debian/ubuntu:
-```shell
-sudo apt install nodejs
-```
-##### Arch:
-```shell
-sudo pacman -S nodejs
-```
-##### Fedora/RedHat:
-```shell
-sudo dnf install nodejs
-```
-Installa le dipendenze:
-```shell
-npm install
-```
-Per compilare l'app usa:
-```shell
-npm run build
-```
+###ATTENZIONE: Ora le app player saranno closed source.
 <div id="compilazionemobile"></div>
 
 ## Compilazione dell'app (Mobile)
-Per modificare l'app mobile occorre scaricare il progetto in formato AIA ([LITE](https://github.com/pannisco/riplayer/blob/main/radioirpiniaPLAYERlite.aia) ; [STANDARD](https://github.com/pannisco/riplayer/blob/main/radioirpiniaPLAYER.aia)) e importarla su [kodular](https://c.kodular.io/).
+###ATTENZIONE: Ora le app player saranno closed source.
 
 Buon divertimento! :)
