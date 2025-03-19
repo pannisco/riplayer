@@ -57,17 +57,11 @@ Scarica la versione che preferisci dalla [tabella](#tab). Per installare/avviare
 <img src="https://radioirpinia2.web.app/imgas/screenandroid.jpg" alt="App Player su Android" width="200"/>
 
 #### **Primo passo**: Scegliere il tipo di app:
-Se hai un device con versione di android inferiore a 8 dovresti scaaricare la versione LITE, altrimenti la versione STANDARD.
+Se hai un device con versione di android inferiore a 8 dovresti scaricare la versione LITE, altrimenti la versione STANDARD.
 
 Scarica la versione che preferisci dalla [tabella](#tab). Seguire il [tutorial video](https://radioirpinia2.web.app/imgas/tutandr.mp4) se necessarrio.
 
 <div id="compilazione"></div>
-
-## Compilazione dell'app (Desktop)
+## Compilazione dell'app
 ### ATTENZIONE: Ora le app player saranno closed source.
 <div id="compilazionemobile"></div>
-
-## Compilazione dell'app (Mobile)
-### ATTENZIONE: Ora le app player saranno closed source.
-
-Buon divertimento! :)
