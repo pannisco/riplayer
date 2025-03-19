@@ -64,10 +64,10 @@ Scarica la versione che preferisci dalla [tabella](#tab). Seguire il [tutorial v
 <div id="compilazione"></div>
 
 ## Compilazione dell'app (Desktop)
-###ATTENZIONE: Ora le app player saranno closed source.
+### ATTENZIONE: Ora le app player saranno closed source.
 <div id="compilazionemobile"></div>
 
 ## Compilazione dell'app (Mobile)
-###ATTENZIONE: Ora le app player saranno closed source.
+### ATTENZIONE: Ora le app player saranno closed source.
 
 Buon divertimento! :)
