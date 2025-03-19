@@ -62,6 +62,6 @@ Se hai un device con versione di android inferiore a 8 dovresti scaricare la ver
 Scarica la versione che preferisci dalla [tabella](#tab). Seguire il [tutorial video](https://radioirpinia2.web.app/imgas/tutandr.mp4) se necessarrio.
 
 <div id="compilazione"></div>
-## Compilazione dell'app
+
 ### ATTENZIONE: Ora le app player saranno closed source.
 <div id="compilazionemobile"></div>
