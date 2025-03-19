@@ -63,5 +63,5 @@ Scarica la versione che preferisci dalla [tabella](#tab). Seguire il [tutorial v
 
 <div id="compilazione"></div>
 
-### ATTENZIONE: Ora le app player saranno closed source.
+### ATTENZIONE: a breve le app player saranno closed source.
 <div id="compilazionemobile"></div>
