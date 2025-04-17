@@ -18,7 +18,7 @@
 | Windows       | [x64](https://github.com/pannisco/riplayer/releases/download/2.7/riplayerwinx64.exe) ; [x86](https://github.com/pannisco/riplayer/releases/download/2.7/riplayerwinx86.exe)|[QUI](#win)|
 | MacOS         | [ARM64](https://github.com/pannisco/riplayer/releases/download/2.7/riplayerarm64.dmg) ; [x64](https://github.com/pannisco/riplayer/releases/download/2.7/riplayerx64.dmg)     |[QUI](#mac)|
 | Linux x64     | [DEB](https://github.com/pannisco/riplayer/releases/download/2.7/riplayerx64.deb) ; [APPIMAGE](https://github.com/pannisco/riplayer/releases/download/2.7/riplayerx64.AppImage)    |[QUI](#linux)|
-| Android       |[STANDARD](https://github.com/pannisco/riplayer/releases/download/2.7/riplayer.apk) ; [LITE](https://github.com/pannisco/riplayer/releases/download/2.7/riplayerlite.apk)|[QUI](#android)|
+| Android       |[STANDARD](https://github.com/pannisco/riplayer/releases/download/3.0/radioirpiniaPLAYER.apk) ; [LITE](https://github.com/pannisco/riplayer/releases/download/2.7/riplayerlite.apk)|[QUI](#android)|
 | IOS           |Prossimamente!| / |
 
 [![Scarica dallo Snap Store](https://snapcraft.io/it/dark/install.svg)](https://snapcraft.io/riplayer)
